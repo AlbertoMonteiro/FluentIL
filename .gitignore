@@ -10,4 +10,4 @@ build/
 TestResult.xml
 *.user
 *.pdb
-*/*.ncrunchsolution*
+*ncrunch*
